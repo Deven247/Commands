@@ -7,3 +7,4 @@
 7. git add . :- This command is use to add the all file at into the staging area 
 8. git commits -m "comments"
 9. git log
+10. git checkout filename :- This command roll back all the changes if file is not commited
