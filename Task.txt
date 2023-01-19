@@ -1,0 +1,9 @@
+1. cd 
+2. ls
+3. git init
+4. ls -a :- Shows all files including hidden files
+5. git status
+6. git add :- This command is use to add the file into the staging area
+7. git add . :- This command is use to add the all file at into the staging area 
+8. git commits -m "comments"
+9. git log
